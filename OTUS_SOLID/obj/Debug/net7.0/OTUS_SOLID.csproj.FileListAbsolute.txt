@@ -1,0 +1,14 @@
+C:\OTUS_SOLID\OTUS_SOLID\bin\Debug\net7.0\OTUS_SOLID.exe
+C:\OTUS_SOLID\OTUS_SOLID\bin\Debug\net7.0\OTUS_SOLID.deps.json
+C:\OTUS_SOLID\OTUS_SOLID\bin\Debug\net7.0\OTUS_SOLID.runtimeconfig.json
+C:\OTUS_SOLID\OTUS_SOLID\bin\Debug\net7.0\OTUS_SOLID.dll
+C:\OTUS_SOLID\OTUS_SOLID\bin\Debug\net7.0\OTUS_SOLID.pdb
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.GeneratedMSBuildEditorConfig.editorconfig
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.AssemblyInfoInputs.cache
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.AssemblyInfo.cs
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.csproj.CoreCompileInputs.cache
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.dll
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\refint\OTUS_SOLID.dll
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.pdb
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\OTUS_SOLID.genruntimeconfig.cache
+C:\OTUS_SOLID\OTUS_SOLID\obj\Debug\net7.0\ref\OTUS_SOLID.dll
