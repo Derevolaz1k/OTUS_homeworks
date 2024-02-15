@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net8.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net8.0": []
   },
   "packageFolders": {
     "C:\\Users\\Public\\.nuget\\packages": {}
@@ -13,24 +13,24 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\OTUS_SOLID\\OTUS_SOLID\\OTUS_SOLID.csproj",
-      "projectName": "OTUS_SOLID",
-      "projectPath": "C:\\OTUS_SOLID\\OTUS_SOLID\\OTUS_SOLID.csproj",
+      "projectUniqueName": "C:\\OTUS_SOLID\\OTUS_Parallel\\OTUS_Parallel.csproj",
+      "projectName": "OTUS_Parallel",
+      "projectPath": "C:\\OTUS_SOLID\\OTUS_Parallel\\OTUS_Parallel.csproj",
       "packagesPath": "C:\\Users\\Public\\.nuget\\packages",
-      "outputPath": "C:\\OTUS_SOLID\\OTUS_SOLID\\obj\\",
+      "outputPath": "C:\\OTUS_SOLID\\OTUS_Parallel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\79655\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net8.0"
       ],
       "sources": {
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net8.0": {
+          "targetAlias": "net8.0",
           "projectReferences": {}
         }
       },
@@ -41,8 +41,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net8.0": {
+        "targetAlias": "net8.0",
         "imports": [
           "net461",
           "net462",
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.102/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

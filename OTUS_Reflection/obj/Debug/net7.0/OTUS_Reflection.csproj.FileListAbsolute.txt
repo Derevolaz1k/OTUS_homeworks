@@ -1,0 +1,15 @@
+C:\OTUS_SOLID\OTUS_Reflection\bin\Debug\net7.0\OTUS_Reflection.exe
+C:\OTUS_SOLID\OTUS_Reflection\bin\Debug\net7.0\OTUS_Reflection.deps.json
+C:\OTUS_SOLID\OTUS_Reflection\bin\Debug\net7.0\OTUS_Reflection.runtimeconfig.json
+C:\OTUS_SOLID\OTUS_Reflection\bin\Debug\net7.0\OTUS_Reflection.dll
+C:\OTUS_SOLID\OTUS_Reflection\bin\Debug\net7.0\OTUS_Reflection.pdb
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.GeneratedMSBuildEditorConfig.editorconfig
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.AssemblyInfoInputs.cache
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.AssemblyInfo.cs
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.csproj.CoreCompileInputs.cache
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.dll
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\refint\OTUS_Reflection.dll
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.pdb
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.genruntimeconfig.cache
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\ref\OTUS_Reflection.dll
+C:\OTUS_SOLID\OTUS_Reflection\obj\Debug\net7.0\OTUS_Reflection.sourcelink.json

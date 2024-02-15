@@ -1,0 +1,15 @@
+C:\OTUS_SOLID\OTUS_Parallel\bin\Debug\net8.0\OTUS_Parallel.exe
+C:\OTUS_SOLID\OTUS_Parallel\bin\Debug\net8.0\OTUS_Parallel.deps.json
+C:\OTUS_SOLID\OTUS_Parallel\bin\Debug\net8.0\OTUS_Parallel.runtimeconfig.json
+C:\OTUS_SOLID\OTUS_Parallel\bin\Debug\net8.0\OTUS_Parallel.dll
+C:\OTUS_SOLID\OTUS_Parallel\bin\Debug\net8.0\OTUS_Parallel.pdb
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.GeneratedMSBuildEditorConfig.editorconfig
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.AssemblyInfoInputs.cache
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.AssemblyInfo.cs
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.csproj.CoreCompileInputs.cache
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.sourcelink.json
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.dll
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\refint\OTUS_Parallel.dll
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.pdb
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\OTUS_Parallel.genruntimeconfig.cache
+C:\OTUS_SOLID\OTUS_Parallel\obj\Debug\net8.0\ref\OTUS_Parallel.dll
